@@ -3,7 +3,7 @@ layout:     post
 title:      "幸福之人"
 subtitle:   ""
 date:       2022-09-20
-author:     "_YorkWong_"
+author:     "YorkWong"
 tags:
 - 书籍摘录
 ---

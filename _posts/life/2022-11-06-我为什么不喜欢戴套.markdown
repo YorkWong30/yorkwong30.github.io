@@ -1,12 +1,12 @@
 ---
 layout:     post
 title:      "我为什么不喜欢戴套"
-subtitle:   "为什么呢？"
+subtitle:   "不喜欢戴套"
 date:       2022-11-06
 author:     "YorkWong"
-header-img: ''
+header-img: "img/bg-little-universe.jpg"
 tags:
-    - 7788
+- LIFE
 ---
 写点没啥内涵的东西；
 
