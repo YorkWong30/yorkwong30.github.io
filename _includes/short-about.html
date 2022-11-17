@@ -2,9 +2,12 @@
   <hr>
   <h5><a href="{{'/about/' | prepend: site.baseurl }}">ABOUT ME</a></h5>
   <div class="short-about">
-    {% if site.sidebar-avatar %}
-    <img src="{{site.sidebar-avatar}}" />
-    {% endif %}
+<!--    {% if site.sidebar-avatar %}-->
+<!--    <img src="{{site.sidebar-avatar}}" />-->
+<!--    -->
+<!--    {% endif %}-->
+      {{site.sidebar-avatar}}
+    <img src="https://pic.imgdb.cn/item/636373ff16f2c2beb1806a81.jpg" />
     {% if site.sidebar-about-description %}
     <p>{{site.sidebar-about-description}}</p>
     {% endif %}
