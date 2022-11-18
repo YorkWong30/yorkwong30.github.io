@@ -1,10 +1,11 @@
 ---
 layout:     post
-title:      "我为什么不喜欢戴套"
-subtitle:   "不喜欢戴套"
+title:      "我为什么不喜欢戴Tao"
+subtitle:   "为什么呢？"
 date:       2022-11-06
 author:     "YorkWong"
-header-img: "img/bg-little-universe.jpg"
+header-style: text
+catalog:      true
 tags:
 - LIFE
 ---
