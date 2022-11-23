@@ -1,0 +1,16 @@
+---
+layout:     post
+title:      "腹肌南玻万"
+subtitle:   "使用富士无反拍摄的照片"
+date:       2022-11-23
+author:     "YorkWong"
+header-style: text
+catalog:      true
+tags:
+- Photograph
+---
+
+![](https://pic.imgdb.cn/item/637de24a16f2c2beb1086488.jpg)
+<small class="img-hint">第一张拍的比较满意的照片</small>
+
+
