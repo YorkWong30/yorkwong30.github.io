@@ -9,8 +9,10 @@ catalog:      true
 tags:
 - Photograph
 ---
-
+# 11月拍摄的
+### 第一张拍的比较满意的照片
 ![](https://pic.imgdb.cn/item/637de24a16f2c2beb1086488.jpg)
-<small class="img-hint">第一张拍的比较满意的照片</small>
 
-
+[//]: # (<small class="img-hint">第一张拍的比较满意的照片</small>)
+### 拍个小唇膏
+![](https://pic.imgdb.cn/item/637f119d16f2c2beb190a913.jpg)
