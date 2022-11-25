@@ -1,0 +1,16 @@
+---
+layout:     post
+title:      "202211"
+subtitle:   "11月"
+date:       2022-11-01
+author:     "YorkWong"
+header-style: text
+catalog:      true
+tags:
+- Daily Record
+---
+
+### 1125
+开始觉得想买的钱不够花了；  
+也许是因为想买的东西变得更贵，但是自己无法负担起价格。  
+这种感觉会让人产生焦虑，焦虑地想快点找到赚更多钱的路子。
