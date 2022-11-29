@@ -7,5 +7,5 @@ author:     "YorkWong"
 ---
 
 ### 这是一个模版呀
-https://pic.imgdb.cn/item/636373ff16f2c2beb1806a81.jpg
+![](https://pic.imgdb.cn/item/6363740216f2c2beb1806fab.png)
 
