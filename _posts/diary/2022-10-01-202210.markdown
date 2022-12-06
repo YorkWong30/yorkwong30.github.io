@@ -4,6 +4,8 @@ title:      "202210"
 subtitle:   "10月"
 date:       2022-10-01
 author:     "YorkWong"
+header-style: text
+
 tags:
 - Daily Record
 ---

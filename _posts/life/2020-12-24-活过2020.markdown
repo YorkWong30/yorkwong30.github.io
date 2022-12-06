@@ -4,7 +4,8 @@ title:      "权当记录 活过2020"
 subtitle:   ""
 date:       2020-12-24
 author:     "YorkWong"
-header-img: "img/about-bg.jpg"
+header-style: text
+
 tags:
 - LIFE
 ---

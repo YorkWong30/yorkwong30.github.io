@@ -4,7 +4,8 @@ title:      "202003"
 subtitle:   ""
 date:       2020-03-01
 author:     "YorkWong"
-header-img: "img/about-bg.jpg"
+header-style: text
+
 tags:
 - Daily Record
 ---

@@ -4,6 +4,8 @@ title:      "记 第一次住院"
 subtitle:   ""
 date:       2022-06-21
 author:     "YorkWong"
+header-style: text
+
 tags:
 - LIFE
 ---

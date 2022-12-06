@@ -4,7 +4,8 @@ title:      "201912"
 subtitle:   ""
 date:       2019-12-01
 author:     "YorkWong"
-header-img: "img/about-bg.jpg"
+header-style: text
+
 tags:
 - Daily Record
 ---

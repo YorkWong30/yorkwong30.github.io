@@ -28,23 +28,5 @@ tags:
     style="position: absolute; width: 100%; height: 100%; top: 0;"
     scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </div>
-
- 
-
 ![](https://cdn.jsdelivr.net/gh/YorkWong30/picb/cameraAndphone.png)
 <small>相机手机对比</small>
-
-<div style="position: relative; width: 100%; 
-    padding-top: calc(100% * 720 / 1280); 
-    border: 2px black solid;">
-    <iframe src="https://youwu.today" title="今日有悟" 
-    style="position: absolute; width: 100%; height: 100%; top: 0;">
-    </iframe>
-</div>
-<div style="position: relative; width: 100%; 
-    padding-top: calc(100% * 720 / 1280); 
-    border: 2px black solid;">
-    <iframe src="https://yorkwong30.github.io" title="yorkwong30.github.io" 
-    style="position: absolute; width: 100%; height: 100%; top: 0;">
-    </iframe>
-</div>

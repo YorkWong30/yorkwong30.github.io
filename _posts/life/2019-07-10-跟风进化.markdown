@@ -4,7 +4,7 @@ title:      "跟风进化"
 subtitle:   ""
 date:       2019-07-10
 author:     "YorkWong"
-header-img: "img/about-bg.jpg"
+header-img: "https://cdn.jsdelivr.net/gh/YorkWong30/picb/202212061017263.jpg"
 tags:
 - LIFE
 ---

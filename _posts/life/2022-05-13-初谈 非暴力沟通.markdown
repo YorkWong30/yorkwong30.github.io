@@ -4,6 +4,8 @@ title:      "初谈 非暴力沟通"
 subtitle:   ""
 date:       2022-05-13
 author:     "YorkWong"
+header-style: text
+
 tags:
     - LIFE
 ---

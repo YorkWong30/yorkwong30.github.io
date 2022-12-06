@@ -4,6 +4,8 @@ title:      "幸福之人"
 subtitle:   ""
 date:       2022-09-20
 author:     "YorkWong"
+header-style: text
+
 tags:
 - 书籍摘录
 ---
