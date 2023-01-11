@@ -4,9 +4,10 @@ title:      "JavaScript面试题"
 subtitle:   "JavaScript"
 date:       2022-06-09
 author:     "YorkWong"
-header-img: "img/post-bg-js-version.jpg"
+header-style: text
+catalog:      true
 tags:
-- Job Interview
+- 面试题总结
 ---
 ---
 

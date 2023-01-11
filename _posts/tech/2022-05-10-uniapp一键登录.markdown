@@ -1,11 +1,14 @@
 ---
 layout:     post
 title:      "uniapp一键登录app"
-subtitle:   "使用uniapp实现一键获取手机号"
+subtitle:   "uniapp实现一键获取手机号"
 date:       2022-05-10
 author:     "YorkWong"
+header-style: text
+catalog:      true
 tags:
-    - SKILL
+- SKILL
+- uniapp
 ---
 
 # 原理流程：

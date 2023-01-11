@@ -4,6 +4,8 @@ title:      "用最少的代码实现垂直居中"
 subtitle:   ""
 date:       2022-05-10
 author:     "YorkWong"
+header-style: text
+catalog:      true
 tags:
     - CSS
 ---

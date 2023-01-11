@@ -1,9 +1,11 @@
 ---
 layout:     post
 title:      "一分钟搞定BFC"
-subtitle:   ""
+subtitle:   "中文名： 块级格式化上下文"
 date:       2022-05-10
 author:     "YorkWong"
+header-style: text
+catalog:      true
 tags:
     - CSS
 ---

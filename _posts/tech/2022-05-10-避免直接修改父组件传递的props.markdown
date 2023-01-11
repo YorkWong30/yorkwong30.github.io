@@ -4,6 +4,8 @@ title:      "避免直接修改父组件传递的props"
 subtitle:   ""
 date:       2022-05-10
 author:     "YorkWong"
+header-style: text
+catalog:      true
 tags:
     - Vue
 ---
