@@ -1,0 +1,14 @@
+---
+layout:     post
+title:      "202304"
+subtitle:   ""
+date:       2023-04-01
+author:     "YorkWong"
+header-style: text
+catalog:      true
+tags:
+- Daily Record
+---
+### 0411
+不要被别人影响到自己。
+这点确实很难做到，但是必须做到。
