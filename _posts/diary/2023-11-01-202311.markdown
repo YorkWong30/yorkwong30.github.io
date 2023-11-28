@@ -1,1 +1,16 @@
-hello mother fucker
+---
+layout: post
+title: "202311"
+subtitle: ""
+date: 2023-11-01
+author: "YorkWong"
+header-style: text
+catalog: true
+tags:
+  - Daily Record
+---
+
+### 1128
+昨天5：30 下班搞了一杯少椰乳多咖啡的生椰拿铁。
+结果悲剧了，一向觉得咖啡对我没啥威力的我半夜 3 点还没睡着😴！
+
